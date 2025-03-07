@@ -1,4 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=250&section=header&text=%F0%9F%8C%B1%20New%20to%20Development%2C%20Backed%20by%20Security!%20%F0%9F%94%90&fontSize=35)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://capsule-render.vercel.app/api?type=Blur&color=0:000000,100:222222&height=250&section=header&text=%F0%9F%8C%B1%20New%20to%20Development%2C%20Backed%20by%20Security!%20%F0%9F%94%90&fontSize=35">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=250&section=header&text=%F0%9F%8C%B1%20New%20to%20Development%2C%20Backed%20by%20Security!%20%F0%9F%94%90&fontSize=35">
+  <img alt="Header" 
+       src="https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=250&section=header&text=%F0%9F%8C%B1%20New%20to%20Development%2C%20Backed%20by%20Security!%20%F0%9F%94%90&fontSize=35">
+</picture>
+
 
 
 <!--
