@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠 Tech Stack  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-![Swing](https://img.shields.io/badge/Swing-0095D5?style=flat-square&logo=oracle&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![Swing](https://img.shields.io/badge/Swing-0095D5?style=flat-square&logo=oracle&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 
 
