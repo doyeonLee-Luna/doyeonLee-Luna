@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 > 🔹 **Description:** Mobile inventory & sales management system  
 > 🔹 **Tech:** Java, Swing, JDBC  
 > 🔹 **GitHub Repo:** [🔗 MobileManager Repository](https://github.com/doyeonLee-Luna/Project/tree/main/URECA_MiniProject_ldy/src/app/phone)  
-><small> ➡️ This project is a sales management system personally developed to practice backend development and database management using Java Swing and MySQL. 🚀  </small>
+<sub>➡️ This project is a sales management system personally developed to practice backend development and database management using Java Swing and MySQL. 🚀</sub>
 ---
 
 ## 📊 GitHub Stats  
