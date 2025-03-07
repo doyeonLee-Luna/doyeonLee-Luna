@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doyeonLee-Luna&show_icons=true&theme=dark)
+
 
 ---
 ⭐ **Thank you for visiting my profile!**
