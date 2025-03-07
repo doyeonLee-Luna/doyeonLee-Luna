@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 - 🎯 Goal: **Exploring security in development & data analysis while improving backend skills**
 
 ## 📫 Contact Me  
-✉️ **Email:** [plumeedd@gmail.com](mailto:plumeedd@gmail.com)  
-🔗 **LinkedIn:** [Doyeon Lee](https://www.linkedin.com/in/doyeon-lee-1647b8341/)  
-[<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>](mailto:plumeedd@gmail.com)  
-[<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/doyeon-lee-1647b8341/)
+[<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>](mailto:plumeedd@gmail.com)  [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/doyeon-lee-1647b8341/)
 
 
 ---
