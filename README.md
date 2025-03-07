@@ -38,6 +38,10 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![Swing](https://img.shields.io/badge/Swing-0095D5?style=flat-square&logo=oracle&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
+---
+
+## 📜 Certifications  
+[<img width="24" height="24" src="https://img.icons8.com/fluency/24/diploma.png" alt="certificate"/>](https://www.cpoforum.or.kr/) **CPPG** (Certified Privacy Protection General) – *Issued by CPO Forum Korea*
 
 
 ---
