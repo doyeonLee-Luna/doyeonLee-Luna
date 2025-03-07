@@ -1,11 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://capsule-render.vercel.app/api?type=Blur&color=0:000000,100:222222&height=300&section=header&text=capsule%20render&fontSize=25">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=capsule%20render&fontSize=25">
-  <img alt="header" 
-       src="https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=capsule%20render&fontSize=25">
-</picture>
+![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=300&section=header&text=%F0%9F%8C%B1%20New%20to%20Development%2C%20Backed%20by%20Security!%20%F0%9F%94%90&fontSize=25)
+
 
 
 
