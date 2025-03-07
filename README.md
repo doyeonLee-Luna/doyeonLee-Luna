@@ -55,7 +55,12 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doyeonLee-Luna&show_icons=true&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=doyeonLee-Luna&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=doyeonLee-Luna&show_icons=true&theme=light">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=doyeonLee-Luna&show_icons=true&theme=light">
+</picture>
+
 
 
 ---
