@@ -38,14 +38,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![Swing](https://img.shields.io/badge/Swing-0095D5?style=flat-square&logo=oracle&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
-## 🛠 Tech Stack  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
-![Swing](https://img.shields.io/badge/Swing-0095D5?style=flat-square&logo=oracle&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 
 
