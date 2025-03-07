@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%F0%9F%8C%B1%20New%20to%20Development%2C%20Backed%20by%20Security!%20%F0%9F%94%90&fontSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%F0%9F%8C%B1%20New%20to%20Development%2C%20Backed%20by%20Security!%20%F0%9F%94%90&fontSize=30)
 
 <!--
 **doyeonLee-Luna/doyeonLee-Luna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
