@@ -1,4 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=300&section=header&text=capsule%20render&fontSize=25)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://capsule-render.vercel.app/api?type=Blur&color=0:000000,100:222222&height=300&section=header&text=capsule%20render&fontSize=25">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=capsule%20render&fontSize=25">
+  <img alt="header" 
+       src="https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=capsule%20render&fontSize=25">
+</picture>
+
 
 
 
