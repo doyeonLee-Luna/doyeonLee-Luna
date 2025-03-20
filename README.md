@@ -53,8 +53,14 @@ Here are some ideas to get you started:
 #### 📱 Mobile Sales System
 > 🔹 **Description:** Mobile inventory & sales management system  
 > 🔹 **Tech:** Java, Swing, JDBC  
-> 🔹 **GitHub Repo:** [🔗 Mobile Sales System Repository](https://github.com/doyeonLee-Luna/Project/tree/main/URECA_MiniProject_ldy/src/app/phone)  
+> 🔹 **GitHub Repo:** [🔗 Mobile Sales System Repository](https://github.com/doyeonLee-Luna/Project.git)  
 <sub>➡️ This project is a sales management system personally developed to practice backend development and database management using Java Swing and MySQL. 🚀</sub>
+
+#### 🖐 About Me Page
+> 🔹 **Description:** Introduction Page  
+> 🔹 **Tech:** HTML, CSS, Javascript  
+> 🔹 **GitHub Repo:** [🔗 Introduction-page Repository](https://github.com/doyeonLee-Luna/Introduction-page.git)  
+<sub>➡️ This project is a Introduction Page using html, css, Javascript. It only covers basic concepts. 🌐</sub>
 ---
 
 ## 📊 GitHub Stats  
