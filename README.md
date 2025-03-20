@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 #### 🖐 About Me Page
 > 🔹 **Description:** Introduction Page  
 > 🔹 **Tech:** HTML, CSS, Javascript  
-> 🔹 **GitHub Repo:** [🔗 Introduction-page Repository](https://github.com/doyeonLee-Luna/Introduction-page.git)
+> 🔹 **GitHub Repo:** [🔗 Introduction-page Repository](https://github.com/doyeonLee-Luna/Introduction-page.git)  
 > 🔹 **Live Demo:** [🔗 Introduction Page](https://aboutdoyeon.netlify.app/)  
 <sub>➡️ This project is a Introduction Page using html, css, Javascript. It only covers basic concepts. 🌐</sub>
 ---
