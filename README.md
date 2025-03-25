@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <sub>➡️ This project is a Introduction Page using html, css, Javascript. It only covers basic concepts. 🌐</sub>
 
 #### 👩‍💻 IntroduceMyself
-> 🔹 **Description:** Introduction Page added a Friend Request Form (tomcat)
+> 🔹 **Description:** Introduction Page added a Friend Request Form (tomcat)  
 > 🔹 **Tech:** Java(Servlets), tomcat, HTML, CSS, Javascript  
 > 🔹 **GitHub Repo:** [🔗 IntroduceMyself Repository](https://github.com/doyeonLee-Luna/IntroduceMyself.git)   
 <sub>➡️ When the form is submitted, the details are displayed in the console. 🌐</sub>
