@@ -52,6 +52,21 @@ Here are some ideas to get you started:
 ---
 
 ## 📌 Projects  
+#### 📡 AI-Based Mobile Plan Recommendation Platform (2025.06.02 ~ 2025.06.24)  
+> 🔹 **Description:** A chatbot AI service that recommends personalized mobile plans based on user conversation  
+> 🔹 **Role:** Developed APIs for plan listing/detail/comparison/review, implemented AI-based review summarization with Redis caching and scheduled tasks, contributed to frontend  
+> 🔹 **Tech:** Spring Boot, JPA, Redis, MySQL, MongoDB, Gemini API, React, Elasticsearch, Kibana  
+> 🔹 **GitHub Repo:** [🔗 urjung_main](https://github.com/ureca-u1moo2)  
+<sub>➡️ Integrated AI and improved backend performance, enhanced team collaboration. 🤝</sub>
+
+#### 🐾 Pet Community Platform (2025.05.08 ~ 2025.05.16)  
+> 🔹 **Description:** A community platform for pet owners with user-specific My Page features  
+> 🔹 **Role:** Backend development using Spring Boot (CRUD for My Page, session-based login), team leader  
+> 🔹 **Tech:** Java, Spring Boot, JPA, MySQL, HTML, CSS, JavaScript  
+> 🔹 **GitHub Repo:** [🔗 pet-service Repository](https://github.com/doyeonLee-Luna/pet-service.git)  
+<sub>➡️ First team project with full backend implementation and frontend understanding. Selected as “Trainee of the Month” and led project presentation. 🎤</sub>
+
+
 #### 📱 Mobile Sales System
 > 🔹 **Description:** Mobile inventory & sales management system  
 > 🔹 **Tech:** Java, Swing, JDBC  
