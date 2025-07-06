@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 > 🔹 **Description:** A community platform for pet owners with user-specific My Page features  
 > 🔹 **Role:** Backend development using Spring Boot (CRUD for My Page, session-based login), team leader  
 > 🔹 **Tech:** Java, Spring Boot, JPA, MySQL, HTML, CSS, JavaScript  
-> 🔹 **GitHub Repo:** [🔗 pet-service Repository](https://github.com/doyeonLee-Luna/pet-service.git)  
+> 🔹 **GitHub Repo:** [🔗 petpotato-service Repository](https://github.com/doyeonLee-Luna/petpotato-service.git)  
 <sub>➡️ First team project with full backend implementation and frontend understanding. Selected as “Trainee of the Month” and led project presentation. 🎤</sub>
 
 
